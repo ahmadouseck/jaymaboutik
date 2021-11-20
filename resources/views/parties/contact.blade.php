@@ -154,20 +154,21 @@ https://templatemo.com/tm-546-sixteen-clothing
     <div class="send-message">
       <div class="container">
         <div class="row">
+
+            @if (session()->has('message'))
+
+            <div class="alert alert-success">
+                <button type="button" class="close" data-dismiss="alert">x</button>
+
+                {{ session()->get('message')}}
+            </div>
+           @endif
+
           <div class="col-md-12">
             <div class="section-heading">
               <h2>Envoyez nous un Message</h2>
             </div>
           </div>
-
-          @if (session()->has('message'))
-
-          <div class="alert alert-success">
-              <button type="button" class="close" data-dismiss="alert">x</button>
-
-              {{ session()->get('message')}}
-          </div>
-         @endif
 
 
           <div class="col-md-8">

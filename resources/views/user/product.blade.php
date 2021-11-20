@@ -5,7 +5,7 @@
         <div class="col-md-12">
           <div class="section-heading">
             {{-- <h2>Latest Products</h2> --}}
-            <a href="products.html">voir tous les produits <i class="fa fa-angle-right"></i></a>
+            {{-- <a href="nosproduit">voir tous les produits <i class="fa fa-angle-right"></i></a> --}}
 
             <form action="{{url('search')}}" method="get" class="form-inline" style="float: right; padding:10px;">
                 <input class="form-control" type="search" name="search" placeholder="Rechercher un produit">

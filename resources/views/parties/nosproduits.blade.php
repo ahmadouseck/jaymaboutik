@@ -135,6 +135,8 @@ https://templatemo.com/tm-546-sixteen-clothing
           <div class="col-md-12">
             <div class="filters-content">
                 <div class="row grid">
+
+
                     <div class="col-lg-4 col-md-4 all des">
                       <div class="product-item">
                         <a href="#"><img src="assets/images/product_01.jpg" alt=""></a>
@@ -153,7 +155,9 @@ https://templatemo.com/tm-546-sixteen-clothing
                         </div>
                       </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 all dev">
+
+
+                     <div class="col-lg-4 col-md-4 all dev">
                       <div class="product-item">
                         <a href="#"><img src="assets/images/product_02.jpg" alt=""></a>
                         <div class="down-content">
@@ -171,6 +175,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                         </div>
                       </div>
                     </div>
+
                     <div class="col-lg-4 col-md-4 all gra">
                       <div class="product-item">
                         <a href="#"><img src="assets/images/product_03.jpg" alt=""></a>
@@ -189,6 +194,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                         </div>
                       </div>
                     </div>
+
                     <div class="col-lg-4 col-md-4 all gra">
                       <div class="product-item">
                         <a href="#"><img src="assets/images/product_04.jpg" alt=""></a>
@@ -242,7 +248,8 @@ https://templatemo.com/tm-546-sixteen-clothing
                           <span>Reviews (72)</span>
                         </div>
                       </div>
-                    </div>
+                    </div> --}}
+
                 </div>
             </div>
           </div>

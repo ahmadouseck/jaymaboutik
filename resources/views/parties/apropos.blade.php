@@ -172,7 +172,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 </div>
               </div>
               <div class="down-content">
-                <h4>Johnny William</h4>
+                <h4>Amadou SECK</h4>
                 <span>CO-Founder</span>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
               </div>
@@ -194,7 +194,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 </div>
               </div>
               <div class="down-content">
-                <h4>Karry Pitcher</h4>
+                <h4>Amadou SECK</h4>
                 <span>Product Expert</span>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
               </div>
@@ -216,7 +216,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 </div>
               </div>
               <div class="down-content">
-                <h4>Michael Soft</h4>
+                <h4>Amadou SECK</h4>
                 <span>Chief Marketing</span>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
               </div>
